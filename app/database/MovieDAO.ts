@@ -1,3 +1,11 @@
+/**
+ * This is the MovieDAO file
+ * It handles direct contact with the database
+ * The functions methods in this class get used by the controllers in the movies.js file
+ */
+
+
+
 import { Movie } from "../models/Movie";
 import * as mysql from "mysql";
 import * as util from "util";

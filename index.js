@@ -1,3 +1,9 @@
+/**
+ * Main entry point of API
+ * Defines the default route, and calls the movieRoutes file
+ * Starts the server
+ */
+
 const bodyParser = require("body-parser");
 const movieRoutes = require('./routes/movies')
 

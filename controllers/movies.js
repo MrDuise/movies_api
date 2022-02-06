@@ -1,3 +1,9 @@
+/**
+ * This file is all the controllers for the routes
+ * Each controller function calls the method from the MovieDAO file that goes along with its function
+ */
+
+
 const { Movie } = require("../lib/app/models/Movie.js");
 const { MovieDAO } = require("../lib/app/database/MovieDAO.js");
 
