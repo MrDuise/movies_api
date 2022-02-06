@@ -1,9 +1,9 @@
 # movies_api
 **Simple REST API**
 
-Overview
-This API preforms simple CRUD operations on a movie database
-Read the entire database
+**Overview**
+* This API preforms simple CRUD operations on a movie database
+* Read the entire database
 Read a single entry
 Add in a entry
 Update a single entry
